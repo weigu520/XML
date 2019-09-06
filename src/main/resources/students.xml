@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student delete="1" id="12">
+        <name>张三</name>
+        <age>20</age>
+    </student>
+    <student delete="0" id="12">
+        <name>李四</name>
+        <age>20</age>
+    </student>
+    <student delete="0" id="12">
+        <name>ji</name>
+        <age>10</age>
+    </student>
+    <student delete="0" id="12">
+        <name>13</name>
+        <age>1</age>
+    </student>
+    <student delete="0" id="12">
+        <name>12335</name>
+        <age>1</age>
+    </student>
+</students>
